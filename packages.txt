@@ -5,4 +5,5 @@ neovim
 discord
 spotify-launcher
 flameshot
+copyq
 redshift
