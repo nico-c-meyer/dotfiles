@@ -173,11 +173,6 @@ new_window pixel 1
 gaps inner 6
 gaps outer 3
 
-# autotiling script
-# https://github.com/nwg-piotr/autotiling
-# `yay -S autotiling ;) (it is in AUR)
-exec_always --no-startup-id autotiling
-
 ################
 # keybindings 
 ################

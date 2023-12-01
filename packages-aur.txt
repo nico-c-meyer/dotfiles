@@ -1,5 +1,4 @@
 visual-stido-code-bin
-autotiling
 betterlockscreen
 ttf-meslo-nerd-font-powerlevel10k
 i3lock-color
