@@ -7,3 +7,5 @@ spotify-launcher
 flameshot
 copyq
 redshift
+noto-fonts-emoji
+noto-fonts-cjk
