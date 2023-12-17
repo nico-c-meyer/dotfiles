@@ -9,3 +9,4 @@ copyq
 redshift
 noto-fonts-emoji
 noto-fonts-cjk
+samba
